@@ -1,2 +1,2 @@
-# myOwnLibrary
-This is my own library. It contains the isTouching and the bounceOff algorithms that I have made.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
